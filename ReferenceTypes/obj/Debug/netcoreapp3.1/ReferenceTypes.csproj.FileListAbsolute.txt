@@ -1,0 +1,14 @@
+C:\Users\Hacı Deniz\Documents\KampÇalışmalarım\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.exe
+C:\Users\Hacı Deniz\Documents\KampÇalışmalarım\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.deps.json
+C:\Users\Hacı Deniz\Documents\KampÇalışmalarım\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.json
+C:\Users\Hacı Deniz\Documents\KampÇalışmalarım\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.dev.json
+C:\Users\Hacı Deniz\Documents\KampÇalışmalarım\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.dll
+C:\Users\Hacı Deniz\Documents\KampÇalışmalarım\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.pdb
+C:\Users\Hacı Deniz\Documents\KampÇalışmalarım\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.csproj.AssemblyReference.cache
+C:\Users\Hacı Deniz\Documents\KampÇalışmalarım\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hacı Deniz\Documents\KampÇalışmalarım\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\Hacı Deniz\Documents\KampÇalışmalarım\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfo.cs
+C:\Users\Hacı Deniz\Documents\KampÇalışmalarım\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\Hacı Deniz\Documents\KampÇalışmalarım\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.dll
+C:\Users\Hacı Deniz\Documents\KampÇalışmalarım\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.pdb
+C:\Users\Hacı Deniz\Documents\KampÇalışmalarım\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.genruntimeconfig.cache
