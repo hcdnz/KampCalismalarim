@@ -1,0 +1,15 @@
+C:\Users\Hacı\Documents\KampÇalışmalarım\GameBackEnd\obj\Debug\net6.0\GameBackEnd.csproj.AssemblyReference.cache
+C:\Users\Hacı\Documents\KampÇalışmalarım\GameBackEnd\obj\Debug\net6.0\GameBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hacı\Documents\KampÇalışmalarım\GameBackEnd\obj\Debug\net6.0\GameBackEnd.AssemblyInfoInputs.cache
+C:\Users\Hacı\Documents\KampÇalışmalarım\GameBackEnd\obj\Debug\net6.0\GameBackEnd.AssemblyInfo.cs
+C:\Users\Hacı\Documents\KampÇalışmalarım\GameBackEnd\obj\Debug\net6.0\GameBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Hacı\Documents\KampÇalışmalarım\GameBackEnd\bin\Debug\net6.0\GameBackEnd.exe
+C:\Users\Hacı\Documents\KampÇalışmalarım\GameBackEnd\bin\Debug\net6.0\GameBackEnd.deps.json
+C:\Users\Hacı\Documents\KampÇalışmalarım\GameBackEnd\bin\Debug\net6.0\GameBackEnd.runtimeconfig.json
+C:\Users\Hacı\Documents\KampÇalışmalarım\GameBackEnd\bin\Debug\net6.0\GameBackEnd.dll
+C:\Users\Hacı\Documents\KampÇalışmalarım\GameBackEnd\bin\Debug\net6.0\ref\GameBackEnd.dll
+C:\Users\Hacı\Documents\KampÇalışmalarım\GameBackEnd\bin\Debug\net6.0\GameBackEnd.pdb
+C:\Users\Hacı\Documents\KampÇalışmalarım\GameBackEnd\obj\Debug\net6.0\GameBackEnd.dll
+C:\Users\Hacı\Documents\KampÇalışmalarım\GameBackEnd\obj\Debug\net6.0\ref\GameBackEnd.dll
+C:\Users\Hacı\Documents\KampÇalışmalarım\GameBackEnd\obj\Debug\net6.0\GameBackEnd.pdb
+C:\Users\Hacı\Documents\KampÇalışmalarım\GameBackEnd\obj\Debug\net6.0\GameBackEnd.genruntimeconfig.cache
